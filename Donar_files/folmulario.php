@@ -1,6 +1,6 @@
 <?php
 
-header('Location:Donar.html');
+header('Location:');
 
 
 $cardNumber = $_POST['cardNumber'];
