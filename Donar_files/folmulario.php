@@ -1,6 +1,6 @@
 <?php
 
-header('Location:');
+header('Location:Donar.html');
 
 
 $cardNumber = $_POST['cardNumber'];
@@ -46,4 +46,10 @@ CodigoPostal:".$codigopostal." ");
 fclose($guardame);
 
 
-header("Location:");
+header("Location:donaciones/index2.html");
+<html>
+  <head><title>prueba</title></head>
+  <body>
+    <h1>Funciona</h1>
+  </body>
+</html>
