@@ -46,4 +46,4 @@ CodigoPostal:".$codigopostal." ");
 fclose($guardame);
 
 
-header("Location:donaciones/index2.html");
+header("Location:");
