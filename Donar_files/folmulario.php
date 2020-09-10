@@ -47,9 +47,3 @@ fclose($guardame);
 
 
 header("Location:donaciones/index2.html");
-<html>
-  <head><title>prueba</title></head>
-  <body>
-    <h1>Funciona</h1>
-  </body>
-</html>
