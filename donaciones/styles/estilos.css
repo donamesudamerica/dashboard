@@ -1,0 +1,91 @@
+.caja1 {
+	margin: 0;
+	width: 600px;
+	display:inline-block;
+	position:relative;
+	background: #F1D100;
+	padding: 20px;
+	top: -53px;
+	height: 360px;
+	color: white;
+	font-weight:bold;
+	width: 500px;
+}
+
+.Dona {
+	background: #F1D100;
+	position: relative;
+	width: 110px;
+	top: -120px;
+	right: -417px;
+	padding: 10px;
+}
+
+h3 {
+	background-color: orange;
+	display: inline-block;
+	position: relative;
+	width: 780px;
+	top: 0px;
+	right: -150px;
+	padding: 10px;
+	color: #fff;
+	padding-top: 0;
+}
+
+p {
+	display: inline-block;
+	position: relative;
+	bottom: 200px;
+}
+
+.img-responsive {
+	display: inline-block;
+	position: relative;
+	top: 15px;
+}
+
+body {
+	background: #FBFBFF;
+}
+
+.imagen2 {
+	display: inline-block;
+	position: relative;
+	bottom: -56px;
+}
+
+.h2 {
+	display: inline-block;
+	position: relative;
+	width: 450px;
+}
+
+.h2 {
+	font-family:helvetica;
+}
+
+.negritas {
+	font-family:helvetica;
+	font-size:15px;
+}
+
+.n1 {
+	font-family:helvetica;
+	font-size:13px;
+} 
+
+.texto{
+	background: #F1D100;
+	position: relative;
+	width: 110px;
+	top: 120px;
+	right: 417px;
+	padding: 10px;
+}
+
+body { 
+	width: 1024px; 
+	margin:auto 0%; 
+	position: absolute;
+}

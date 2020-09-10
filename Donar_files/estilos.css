@@ -1,0 +1,19 @@
+.caja {
+	display: inline-block;
+	position: relative;
+	background:white;
+	top: 50px;
+}
+
+.caja {
+	padding-top: 40px;
+	padding-left: 70px;
+	padding-bottom: 30px;
+	padding-right: 60px;
+}
+
+.caja {
+	border-radius:5px;
+	border-color:rgb(183, 188,191);
+	border: 1px solid #B7BCBF;
+}
